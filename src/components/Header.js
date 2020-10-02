@@ -4,7 +4,7 @@ import './styles.scss';
 function Header() {
   return (
     <div className="header">
-        <div className="heading">Punnackal Optics & jewels</div>
+        <div className="heading">Punnackal Jewels & Optics</div>
     </div>
   );
 }
